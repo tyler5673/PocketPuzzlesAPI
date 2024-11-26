@@ -1,2 +1,61 @@
-Hello World!
+[
+    {
+        "modelId": "1",
+        "groups": [
+            {
+                "difficulty": "EASY",
+                "discovered": false,
+                "groupName": "Colors",
+                "groupWords": ["Red", "Blue", "Green", "Yellow"]
+            },
+            {
+                "difficulty": "MEDIUM",
+                "discovered": false,
+                "groupName": "Fruits",
+                "groupWords": ["Apple", "Banana", "Cherry", "Date"]
+            },
+            {
+                "difficulty": "HARD",
+                "discovered": false,
+                "groupName": "Fruits",
+                "groupWords": ["Apple", "Banana", "Cherry", "Date"]
+            },
+            {
+                "difficulty": "EXTREME",
+                "discovered": false,
+                "groupName": "Fruits",
+                "groupWords": ["Apple", "Banana", "Cherry", "Date"]
+            }
+        ]
+    },
+    {
+        "modelId": "2",
+        "groups": [
+            {
+                "difficulty": "EASY",
+                "discovered": false,
+                "groupName": "Colors",
+                "groupWords": ["Red", "Blue", "Green", "Yellow"]
+            },
+            {
+                "difficulty": "MEDIUM",
+                "discovered": false,
+                "groupName": "Fruits",
+                "groupWords": ["Apple", "Banana", "Cherry", "Date"]
+            },
+            {
+                "difficulty": "HARD",
+                "discovered": false,
+                "groupName": "Fruits",
+                "groupWords": ["Apple", "Banana", "Cherry", "Date"]
+            },
+            {
+                "difficulty": "EXTREME",
+                "discovered": false,
+                "groupName": "Fruits",
+                "groupWords": ["Apple", "Banana", "Cherry", "Date"]
+            }
+        ]
+    }
+]
 
