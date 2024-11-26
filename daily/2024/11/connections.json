@@ -5,26 +5,26 @@
             {
                 "difficulty": "EASY",
                 "discovered": false,
-                "groupName": "Colors",
-                "groupWords": ["Red", "Blue", "Green", "Yellow"]
+                "groupName": "Parks we've been to together",
+                "groupWords": ["Glacier", "Denali", "Redwoods", "Volcanoes"]
             },
             {
                 "difficulty": "MEDIUM",
                 "discovered": false,
-                "groupName": "Fruits",
-                "groupWords": ["Apple", "Banana", "Cherry", "Date"]
+                "groupName": "Parks we haven't been to together",
+                "groupWords": ["Ranier", "Moab", "Everglades", "Yellowstone"]
             },
             {
                 "difficulty": "HARD",
                 "discovered": false,
-                "groupName": "Kids",
-                "groupWords": ["Penny", "Pearl", "Harper", "Elias"]
+                "groupName": "Small shiny things",
+                "groupWords": ["Penny", "Pearl", "Nickel", "Jewel"]
             },
             {
                 "difficulty": "EXTREME",
                 "discovered": false,
-                "groupName": "Adults",
-                "groupWords": ["Sandy", "Tyler", "Carolyn", "Scott"]
+                "groupName": "Tyler's favorite places",
+                "groupWords": ["Sauvie", "My Bed", "Your Bed", "Your Arms"]
             }
         ]
     },
