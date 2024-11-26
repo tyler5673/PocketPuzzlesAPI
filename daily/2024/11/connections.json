@@ -592,7 +592,7 @@
                 "difficulty": "MEDIUM",
                 "discovered": false,
                 "groupName": "Cooking Actions",
-                "groupWords": ["Beat", "Whip", "Fold", "Dice"]
+                "groupWords": ["Mix", "Whip", "Fold", "Dice"]
             },
             {
                 "difficulty": "HARD",
