@@ -14,5 +14,85 @@
     {
         "modelId": "Ravenclaw",
         "word": "LOVER"
+    },
+    {
+        "modelId": "Misty Forest",
+        "word": "CLOUD"
+    },
+    {
+        "modelId": "Desert Storm",
+        "word": "SHINE"
+    },
+    {
+        "modelId": "Crystal Lake",
+        "word": "BLOOM"
+    },
+    {
+        "modelId": "Crimson Peak",
+        "word": "FLAME"
+    },
+    {
+        "modelId": "Azure Beach",
+        "word": "WAVES"
+    },
+    {
+        "modelId": "Silver Moon",
+        "word": "NIGHT"
+    },
+    {
+        "modelId": "Golden Plain",
+        "word": "WHEAT"
+    },
+    {
+        "modelId": "Purple Hills",
+        "word": "DREAM"
+    },
+    {
+        "modelId": "Emerald Vale",
+        "word": "GREEN"
+    },
+    {
+        "modelId": "Arctic Frost",
+        "word": "FROST"
+    },
+    {
+        "modelId": "Amber Coast",
+        "word": "BEACH"
+    },
+    {
+        "modelId": "Ruby Ridge",
+        "word": "STONE"
+    },
+    {
+        "modelId": "Coral Reef",
+        "word": "OCEAN"
+    },
+    {
+        "modelId": "Maple Grove",
+        "word": "SHADE"
+    },
+    {
+        "modelId": "Violet Dawn",
+        "word": "LIGHT"
+    },
+    {
+        "modelId": "Rustic Glen",
+        "word": "EARTH"
+    },
+    {
+        "modelId": "Jade Valley",
+        "word": "RIVER"
+    },
+    {
+        "modelId": "Cosmic Void",
+        "word": "SPACE"
+    },
+    {
+        "modelId": "Alpine Peak",
+        "word": "MOUNT"
+    },
+    {
+        "modelId": "Autumn Wood",
+        "word": "MAPLE"
     }
 ]
