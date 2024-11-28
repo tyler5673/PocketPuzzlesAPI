@@ -78,5 +78,17 @@
     {
         "modelId": "Autumn Wood",
         "word": "MAPLE"
+    },
+    {
+        "modelId": "No hint 1",
+        "word": "MUMMY"
+    },
+    {
+        "modelId": "No hint 2",
+        "word": "CATER"
+    },
+    {
+        "modelId": "No hint 3",
+        "word": "TRITE"
     }
 ]
